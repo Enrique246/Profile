@@ -1,4 +1,4 @@
-# Homework 1
+# Homework 2
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
@@ -49,4 +49,4 @@ What are the steps required to install your project?
 - Menu links work
 - I was not able to make my "about-me" text description text shrink when it goes further than 650 pixels. Sorry! It would be awsome to know how to do it, since I did not had enough time with my teachers to walkthrough it completely.
 
-[Link to homework website](https://enrique246.github.io/homework1/ "Profile Homepage")
+[Link to homework website](https://enrique246.github.io/Profile/ "Profile Homepage")
