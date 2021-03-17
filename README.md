@@ -39,7 +39,7 @@ What are the steps required to install your project?
 
 ## Usage
 
-![ Mock Up Gif](./Assets/02-advanced-css-homework-demo.gif)
+![ Mock Up Gif](./Big_image/02-advanced-css-homework-demo.gif)
 
 ## Credits
 - Enrique Del Castillo Chávez
