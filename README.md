@@ -47,6 +47,6 @@ What are the steps required to install your project?
 ## Tests
 - Image links work
 - Menu links work
-- I was not able to make my "about-me" text description text shrink when it goes further than 650 pixels. Sorry! It would be awsome to know how to do it, since I did not had enough time with my teachers to walkthrough it completely.
+- I was not able to make my "about-me" text description shrink when it goes further than 650 pixels. Sorry! It would be awsome to know how to do it, since I did not had enough time with my teachers to walkthrough it completely.
 
 [Link to homework website](https://enrique246.github.io/Profile/ "Profile Homepage")
