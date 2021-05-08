@@ -43,7 +43,8 @@ What are the steps required to install your project?
 
 ## Credits
 - Enrique Del Castillo Chávez
-- I did not had any complete decent projects to include my first profile website. However I included links to other websites I found related to the images. The first one is to the nirvana website. The second one are mountains in Turkey. The third one is the black forest in Germany. The fourth one is a website to himalayas.
+- I only have my first project which I included as project 1.
+-  The second project are mountains in Turkey. The third one is the black forest in Germany. The fourth one is a website to himalayas.
 - I give all rights to the people that created the websites this hmk has links for.
 
 ## Tests
