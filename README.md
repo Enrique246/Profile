@@ -1,4 +1,7 @@
-# Homework 2
+# Homework 8
+
+## Updated profile
+
 ## Description
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 - What was your motivation?
@@ -31,6 +34,8 @@ THEN I am presented with a responsive layout that adapts to my viewport
   - How to make a big and responsive image
   - How to make a proper menu display
   - As an extra learning I designed my webpage to be as a grid design, since it was an easier way for me to understand it. 
+  - Lines on the sides of titles
+  - Adding google fonts
 ## Installation
 What are the steps required to install your project? 
 ### Lenguages Required:
